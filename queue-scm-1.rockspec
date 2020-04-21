@@ -1,8 +1,8 @@
 package = 'queue'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/tarantool/queue.git',
-    branch = 'master',
+    url    = 'git://github.com/iskandarov-egor/queue.git',
+    branch = 'fix-task-release',
 }
 description = {
     summary  = "A set of persistent in-memory queues",
